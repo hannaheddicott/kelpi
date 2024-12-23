@@ -1,0 +1,97 @@
+* {
+    font-family: Parkinsans;
+    margin: 5px;
+    padding-bottom: 3px;
+}
+
+body {
+    text-align: center;
+}
+
+.container_1 h2 {
+    font-size: 40px;
+    color: white;
+}
+
+.container_1 h3 {
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: rgb(215, 245, 255);
+}
+
+.logo {
+    height: 10vh;
+    width: 35vh;
+    margin: 2vh;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+a.navbutton {
+    margin: 10px;
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
+
+nav {
+    float: right;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container_1 {
+    margin-top: 30px;
+    height: 75vh;
+    align-content: center;
+    background-image: url('https://as2.ftcdn.net/v2/jpg/02/52/56/19/1000_F_252561920_uWRwYixKWt2ZtQf7IarM5W6rTjmn9Mru.jpg');
+    opacity: 0.9;
+    justify-content: center;
+    border-radius: 100px;
+}
+
+.container_2 {
+    margin-top: 30px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.c2h2 {
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+.kelp_img {
+    width: 350px;
+    height: 290px;
+    border: 2px solid rgb(164, 188, 255);
+    border-radius: 20px;
+}
+
+.container_3 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+em {
+    font-size: 12px;
+    color: rgb(140, 140, 140);
+}
+
+p {
+    font-size: 12px;
+}
